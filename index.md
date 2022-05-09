@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### R Data Analysis Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[NHS Dashboard Group Project](https://github.com/mrcslx/nhs_dashboard_group_project)
+<img src="images/overview.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Citi Bike NYC Report](https://mrcslx.github.io/citi_bike_nyc.html)
+<img src="images/citi_bike_screen_1.png?raw=true"/>
+
+---
+[NHS Borders Cancer Rates Report](https://mrcslx.github.io/nhs_borders.html)
+<img src="images/nhs_borders_screen_2.png?raw=true"/>
 
 ---
 
