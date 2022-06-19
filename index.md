@@ -2,13 +2,20 @@
 
 ---
 
-### R Data Analysis Projects
+### Data Analysis Projects
 
 [NHS Dashboard Group Project](https://mrcslx.shinyapps.io/dashboard_app/)
 
 <img src="images/overview.png?raw=true"/>
 
 [Github Repository](https://github.com/mrcslx/nhs_dashboard_group_project)
+
+---
+[Game Sales Report](https://mrcslx.github.io/game_sales_report.html)
+
+<img src="images/game_sales_report.png?raw=true"/>
+
+[Github Repository](https://github.com/mrcslx/game_sales)
 
 ---
 [Citi Bike NYC Report](https://mrcslx.github.io/citi_bike_nyc.html)
