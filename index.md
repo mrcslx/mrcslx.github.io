@@ -32,5 +32,12 @@
 [Github Repository](https://github.com/mrcslx/nhs_borders_cancer_rates)
 
 ---
+[Scotch Whisky Profiler](https://mrcslx.shinyapps.io/scotch_whisky_profiler/)
+
+<img src="images/scotch.png?raw=true"/>
+
+[Github Repository](https://github.com/mrcslx/scotch_whisky_profiler)
+
+---
 
 ---
